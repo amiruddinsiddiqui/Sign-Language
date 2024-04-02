@@ -1,19 +1,17 @@
 # Hand Gesture to Speech
 
-This Python script detects hand gestures using OpenCV and MediaPipe, and converts them to speech using the Google Text-to-Speech (gTTS) library.
+This Python program detects hand gestures using OpenCV, and converts them to speech using the Google Text-to-Speech (gTTS) library.
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.9.x
 - OpenCV
-- MediaPipe
 - gTTS
 
 You can install the required dependencies using pip:
 
 ```bash
 pip install opencv-python
-pip install mediapipe
 pip install gtts
 ```
 ## Run the script:
