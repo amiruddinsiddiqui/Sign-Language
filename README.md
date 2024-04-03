@@ -24,11 +24,11 @@ Hold your hands in front of the webcam and perform gestures. The script will det
 ## Supported Gestures
 
 - Hello: All fingers extended.
-- I Love You: Index, middle, and pinky fingers extended on one hand.
-- Good: Index finger extended on one hand.
+- I Love You: Thumb, Index, and pinky fingers extended on one hand.
+- Good: Thumb finger extended on one hand.
 - Peace Out: Index and middle fingers extended on one hand.
-- Smile: Index and middle fingers extended on one hand, thumb pointing up.
-- Thank: Middle, ring, and pinky fingers extended on one hand.
+- Smile: Thumb, and Index fingers extended on one hand.
+- Thank: Index, Middle, ring, and pinky fingers extended on one hand.
 - You: Index finger extended on one hand.
 
 Press 'q' to quit the application.
